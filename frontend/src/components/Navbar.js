@@ -68,7 +68,7 @@ const Navbar = () => {
 
             <div className="hidden lg:flex items-center space-x-4">
               <a
-                href="tel:9740959176"
+                href="tel:8679992795"
                 className="px-6 py-2 btn-secondary text-sm rounded-lg"
                 data-testid="nav-call-btn"
               >
@@ -125,7 +125,7 @@ const Navbar = () => {
                 ))}
                 <div className="flex flex-col space-y-4 mt-8">
                   <a
-                    href="tel:9740959176"
+                    href="tel:8679992795"
                     className="px-8 py-3 btn-secondary text-center rounded-lg"
                   >
                     <span>Call Now</span>

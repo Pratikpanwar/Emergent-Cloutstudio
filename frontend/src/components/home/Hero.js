@@ -64,7 +64,7 @@ const Hero = () => {
             </Link>
             
             <a
-              href="tel:9740959176"
+              href="tel:8679992795"
               className="px-8 py-4 btn-secondary text-base w-full sm:w-auto flex items-center justify-center gap-2 rounded-lg"
               data-testid="hero-cta-secondary"
             >

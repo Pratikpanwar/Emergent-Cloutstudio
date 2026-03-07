@@ -70,8 +70,8 @@ const Contact = () => {
             "mainEntity": {
               "@type": "LocalBusiness",
               "name": "Clout Studio",
-              "telephone": "+919740959176",
-              "email": "hello@cloutstudio.co",
+              "telephone": "+918679992795",
+              "email": "hello@cloutstudio.in",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Roorkee",
@@ -124,7 +124,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h3 className="font-semibold mb-1">Phone</h3>
-                        <a href="tel:9740959176" className="text-black hover:text-brand-blue transition-colors">
+                        <a href="tel:8679992795" className="text-black hover:text-brand-blue transition-colors">
                           +91 97409 59176
                         </a>
                       </div>
@@ -136,8 +136,8 @@ const Contact = () => {
                       </div>
                       <div>
                         <h3 className="font-semibold mb-1">Email</h3>
-                        <a href="mailto:hello@cloutstudio.co" className="text-black hover:text-brand-blue transition-colors">
-                          hello@cloutstudio.co
+                        <a href="mailto:hello@cloutstudio.in" className="text-black hover:text-brand-blue transition-colors">
+                          hello@cloutstudio.in
                         </a>
                       </div>
                     </div>
@@ -187,7 +187,7 @@ const Contact = () => {
                 </div>
 
                 <a
-                  href="https://wa.me/919740959176"
+                  href="https://wa.me/918679992795"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full px-6 py-4 bg-green-600 hover:bg-green-700 text-white font-medium flex items-center justify-center gap-2 transition-colors"

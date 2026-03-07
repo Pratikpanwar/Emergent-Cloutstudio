@@ -91,14 +91,14 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3 text-gray-600 text-sm">
                 <Phone size={18} className="flex-shrink-0 text-brand-blue" />
-                <a href="tel:9740959176" className="hover:text-brand-blue transition-colors">
+                <a href="tel:8679992795" className="hover:text-brand-blue transition-colors">
                   +91 97409 59176
                 </a>
               </li>
               <li className="flex items-center space-x-3 text-gray-600 text-sm">
                 <Mail size={18} className="flex-shrink-0 text-brand-blue" />
-                <a href="mailto:hello@cloutstudio.co" className="hover:text-brand-blue transition-colors">
-                  hello@cloutstudio.co
+                <a href="mailto:hello@cloutstudio.in" className="hover:text-brand-blue transition-colors">
+                  hello@cloutstudio.in
                 </a>
               </li>
             </ul>

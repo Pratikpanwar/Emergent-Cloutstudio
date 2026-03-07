@@ -335,7 +335,7 @@ All images must have descriptive alt text
 
 **Company:** Clout Studio
 **Phone:** +91 97409 59176
-**Email:** hello@cloutstudio.co
+**Email:** hello@cloutstudio.in
 **WhatsApp:** +91 97409 59176
 **Address:** Roorkee, Uttarakhand 247667, India
 

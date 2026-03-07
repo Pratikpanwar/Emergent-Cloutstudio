@@ -43,8 +43,8 @@ const Home = () => {
               "latitude": "29.8543",
               "longitude": "77.8880"
             },
-            "telephone": "+919740959176",
-            "email": "hello@cloutstudio.co",
+            "telephone": "+918679992795",
+            "email": "hello@cloutstudio.in",
             "openingHours": "Mo-Sa 09:00-18:00",
             "priceRange": "₹₹",
             "areaServed": [

@@ -35,7 +35,7 @@ RESEND_API_KEY=""
 
 # Email notification settings (works without Resend for testing)
 SENDER_EMAIL="onboarding@resend.dev"
-NOTIFICATION_EMAIL="hello@cloutstudio.co"
+NOTIFICATION_EMAIL="hello@cloutstudio.in"
 ```
 
 **Get Resend API Key (Optional):**
@@ -176,9 +176,9 @@ The site includes:
 ## Support
 
 For questions or issues:
-- Email: hello@cloutstudio.co
+- Email: hello@cloutstudio.in
 - Phone: +91 97409 59176
-- WhatsApp: https://wa.me/919740959176
+- WhatsApp: https://wa.me/918679992795
 
 ## Next Steps
 

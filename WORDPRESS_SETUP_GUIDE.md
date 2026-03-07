@@ -24,7 +24,7 @@
 5. Create admin credentials:
    - Username: `admin` (or your choice)
    - Password: (create strong password)
-   - Email: `hello@cloutstudio.co`
+   - Email: `hello@cloutstudio.in`
 6. Click **Install**
 7. Wait 2-3 minutes
 
@@ -333,7 +333,7 @@ Services to add:
 
 1. In Contact Form 7, click **Mail** tab
 2. Set:
-   - **To:** `hello@cloutstudio.co`
+   - **To:** `hello@cloutstudio.in`
    - **From:** `[your-email]`
    - **Subject:** New Lead from Clout Studio: [your-name]
    - **Message Body:** Keep default
@@ -351,7 +351,7 @@ Services to add:
 
 **Configure:**
 1. Go to **Click to Chat** → **Settings**
-2. WhatsApp Number: `919740959176`
+2. WhatsApp Number: `918679992795`
 3. Call to Action: "Chat with us on WhatsApp"
 4. Position: Bottom Right
 5. Save Settings
@@ -377,7 +377,7 @@ Services to add:
 3. Organization Name: **Clout Studio**
 4. Location: **Roorkee, Uttarakhand 247667, India**
 5. Phone: **+91 97409 59176**
-6. Email: **hello@cloutstudio.co**
+6. Email: **hello@cloutstudio.in**
 
 ---
 
@@ -493,7 +493,7 @@ Update these throughout the site:
 **Company Details:**
 - Name: **Clout Studio**
 - Phone: **+91 97409 59176**
-- Email: **hello@cloutstudio.co**
+- Email: **hello@cloutstudio.in**
 - WhatsApp: **+91 97409 59176**
 - Address: **Roorkee, Uttarakhand 247667, India**
 

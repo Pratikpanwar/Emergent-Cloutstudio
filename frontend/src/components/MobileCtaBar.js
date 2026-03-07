@@ -6,7 +6,7 @@ const MobileCtaBar = () => {
     <div className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-gray-200 shadow-lg" data-testid="mobile-cta-bar">
       <div className="flex items-center justify-around py-3 px-4">
         <a
-          href="tel:9740959176"
+          href="tel:8679992795"
           className="flex flex-col items-center space-y-1 text-gray-600 hover:text-brand-blue transition-colors"
           data-testid="mobile-call-btn"
         >
@@ -15,7 +15,7 @@ const MobileCtaBar = () => {
         </a>
         
         <a
-          href="https://wa.me/919740959176"
+          href="https://wa.me/918679992795"
           target="_blank"
           rel="noopener noreferrer"
           className="flex flex-col items-center space-y-1 text-gray-600 hover:text-green-600 transition-colors"

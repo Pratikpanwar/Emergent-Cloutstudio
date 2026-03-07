@@ -107,7 +107,7 @@ const LeadFormSection = () => {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="https://wa.me/919740959176"
+              href="https://wa.me/918679992795"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 bg-green-600 hover:bg-green-700 text-white font-medium rounded-lg flex items-center gap-2 transition-colors"
@@ -323,7 +323,7 @@ const LeadFormSection = () => {
             <div>
               <h3 className="text-xl font-syne font-bold mb-4 text-black">Or Message Us Directly</h3>
               <a
-                href="https://wa.me/919740959176"
+                href="https://wa.me/918679992795"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-medium flex items-center justify-center gap-2 transition-colors rounded-lg"
